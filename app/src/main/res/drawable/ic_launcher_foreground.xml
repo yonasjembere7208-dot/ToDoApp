@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- White Circle Backdrop for the icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0" />
+
+    <!-- Modern Checkmark Path -->
+    <path
+        android:fillColor="#0DA2C7"
+        android:pathData="M44.5,64.5 L34,54 L37.5,50.5 L44.5,57.5 L70.5,31.5 L74,35 L44.5,64.5 Z" />
+
+    <!-- List decorative lines -->
+    <path
+        android:fillColor="#0DA2C7"
+        android:alpha="0.3"
+        android:pathData="M34,72 L74,72 L74,75 L34,72 Z" />
+</vector>
