@@ -4,6 +4,22 @@
 
 ---
 
+## 📷 Screenshots
+
+### 🚀 Splash Screen
+![Splash](images/splash.jpg)
+
+### 📋 Task List
+![Task List](images/task-list.jpg)
+
+### ➕ Add Task
+![Add Task](images/add-task.jpg)
+
+### ⚙️ Settings
+![Settings](images/settings.jpg)
+
+---
+
 ## 🚀 Key Features
 
 ### 📅 Smart Task Management
