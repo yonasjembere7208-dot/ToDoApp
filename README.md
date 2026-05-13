@@ -7,16 +7,16 @@
 ## 📷 Screenshots
 
 ### 🚀 Splash Screen
-![Splash](images/Splash%20Screen.jpg)
+<img src="images/Splash%20Screen.jpg" width="150">
 
 ### 📋 Task List
-![Task List](images/Task%20List.jpg)
+<img src="images/Task%20List.jpg" width="150">
 
 ### ➕ Add Task
-![Add Task](images/Add%20Task.jpg)
+<img src="images/Add%20Task.jpg" width="150">
 
 ### ⚙️ Settings
-![Settings](images/Setting.jpg)
+<img src="images/Setting.jpg" width="150">
 
 ---
 
